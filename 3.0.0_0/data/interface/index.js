@@ -12,10 +12,10 @@ function domReady (callback) {
 }
 
 function linkButton() {
-  document.querySelector('.teaser').href = `https://microsoftedge.microsoft.com/addons/detail/video-adblocker-edge/gkjnfeaepknplnfeigpdfnpobggjjbeg`;
+  document.querySelector('.teaser').href = `https://www.codehemu.com/2022/06/how-to-enable-right-click-of-microsoft.html`;
   document.querySelector('.youtube').href = `https://youtube.com/c/HemantaGayen`;
   document.querySelector('.facebook').href = `https://www.facebook.com/codehemu/`;
-  document.querySelector('.website').href = `https://www.codehemu.com/2022/03/block-youtube-ads-and-video-ads-in.html`;
+  document.querySelector('.website').href = `https://www.codehemu.com/`;
 }
 
 function hoverButton(){
@@ -49,7 +49,7 @@ function mouseOut() {
 
 function linkopen(){
   if (localStorage.message=="nyancat") {
-    window.open("https://www.codehemu.com/2022/04/nyancat.html",'_blank');
+    window.open("https://www.codehemu.com/p/nyancat.html",'_blank');
   }else{
     window.open("https://www.codehemu.com/p/mytubeforyoutube.html",'_blank');
   }
@@ -64,7 +64,7 @@ function messageclose(){
   localStorage.setItem("message", "nyancat");
 }
 function headericons(){
-    window.open("https://www.codehemu.com/2022/03/block-youtube-ads-and-video-ads-in.html#CSS3",'_blank');
+    window.open("https://www.codehemu.com/2022/06/how-to-enable-right-click-of-microsoft.html#CSS2",'_blank');
 }
 
 var background = (function () {
